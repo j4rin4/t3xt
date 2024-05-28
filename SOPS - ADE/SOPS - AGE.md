@@ -1,3 +1,5 @@
+# SOPS / AGE
+
 ### Asegurando los Secretos en Proyectos con SOPS y AGE
 
 Recientemente, he estado trabajando en cómo asegurar los secretos en nuestros proyectos utilizando las tecnologías SOPS y AGE. La razón principal para utilizar estas herramientas es evitar que contraseñas y otros datos sensibles queden expuestos en los repositorios Git, un error de seguridad común.
